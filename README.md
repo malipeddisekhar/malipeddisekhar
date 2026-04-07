@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **full stack web development using python and java/sql/AI tools**
+- 🌱 I’m currently learning **full stack web development using java/js/sql/AI tools**
 
 - 💬 Ask me about **web development/coding questions**
 
