@@ -18,11 +18,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/malipeddi sekhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malipeddi sekhar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/malipeddi sekhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="malipeddi sekhar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mallipeddi sekhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mallipeddi sekhar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/malipeddi sekhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="malipeddi sekhar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/malipeddi sekhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="malipeddi sekhar" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/malipeddi-sekhar-08650630b/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.codechef.com/users/sekhar063" target="blank">
+  <img align="center" src="https://cdn.simpleicons.org/codechef" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/u/MALIPEDD_SEKHAR/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/malipeddieak8?tab=activity" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
