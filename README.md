@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png" alt="Banner Poster" />
 </p>
-<h1 align="center">Hi 👋, I'm MALIPEDDI SEKHAR</h1>
+<h1 align="center">Hi 👋, I'm MALIPEDDI SEKHAR (Innovation-Driven Engineer)</h1>
 <h3 align="center" style="color:red;">
   A passionate full stack web developer skilled in Java, SQL, and AI/ML Developer.
 </h3>
