@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malipeddisekhar&label=Profile%20views&color=0e75b6&style=flat" alt="malipeddisekhar" /> </p>
 
-- 🌱 I’m currently learning **full stack web development using java/js/sql/AI tools**
+- 🌱 I’m currently learning **full stack web development using java/sql/AI tools**
 
 - 💬 Ask me about **web development/coding questions**
 
