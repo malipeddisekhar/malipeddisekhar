@@ -4,13 +4,15 @@
 </p>
 <h1 align="center">Hi 👋, I'm MALIPEDDI SEKHAR (Innovation-Driven Engineer)</h1>
 <h3 align="center" style="color:red;">
-  A passionate full stack web developer skilled in Java, SQL, and AI/ML Developer.
+  A passionate about <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+SQL+%7C+AI%2FML;Building+Smart+Web+Applications" />
+  </p>
 </h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malipeddisekhar&label=Profile%20views&color=0e75b6&style=flat" alt="malipeddisekhar" /> </p>
 
-- 🌱 I’m currently learning **full stack web development using java/sql/AI tools**
+- 🌱 I’m currently learning **full stack web development using java/sql/AI tools*
 
 - 💬 Ask me about **web development/coding questions**
 
@@ -49,7 +51,7 @@
 
 <br/>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 
 <table>
   <tr>
@@ -202,7 +204,94 @@
       </a>
     </td>
   </tr>
+</table> -->
+
+<h2 align="center">💻 Tech Forge<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF000&size=22&center=true&vCenter=true&width=500&lines=───────────────;───────────────" />
+</p></h2>
+<div align="center">
+<table>
+<tr>
+
+<!-- LEFT SIDE -->
+<td width="50%" valign="top">
+
+### 🎨 Frontend Expert
+<p>
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Angular-111111?style=for-the-badge&logo=angular&logoColor=DD0031"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
+</p>
+
+---
+
+### ⚙️ Backend Expert
+<p>
+<img src="https://img.shields.io/badge/SpringBoot-111111?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java&logoColor=f89820"/>
+<img src="https://img.shields.io/badge/NodeJS-111111?style=for-the-badge&logo=node.js&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django&logoColor=092E20"/>
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB"/>
+</p>
+
+---
+
+### 🗄️ Database & Cloud
+<p>
+<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/Oracle-111111?style=for-the-badge&logo=oracle&logoColor=F80000"/>
+<img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/GCP-111111?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
+</p>
+
+</td>
+
+<!-- RIGHT SIDE -->
+<td width="50%" valign="top">
+
+### 🤖 AI / Data Science
+<p>
+<img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=150458"/>
+<img src="https://img.shields.io/badge/ScikitLearn-111111?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Seaborn-111111?style=for-the-badge&logo=python&logoColor=4CAF50"/>
+<img src="https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+</p>
+
+---
+
+### 🛠️ Tools & DevOps
+<p>
+<img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+</p>
+
+---
+
+### 💻 Programming Languages
+<p>
+<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java&logoColor=f89820"/>
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
+</p>
+
+</td>
+
+</tr>
 </table>
 
+</div>
+</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=60&section=footer"/>
+</p>
+<h2 align="center">🔥 GitHub Streak</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malipeddisekhar&" alt="malipeddisekhar" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malipeddisekhar&theme=dark&hide_border=true" />
+</div>
