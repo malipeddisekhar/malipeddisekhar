@@ -12,11 +12,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malipeddisekhar&label=Profile%20views&color=0e75b6&style=flat" alt="malipeddisekhar" /> </p>
 
--  Focused on **Java Full Stack Development, AI Tools, and Real-World Applications**  
+- 🚀 Building **scalable full-stack applications** with **Java, Spring Boot, React, and MySQL**  
 
--  Enthusiastic about **Problem Solving, Data Structures, and Smart System Design**  
+- 🤖 Exploring **AI-driven solutions** and developing **smart, data-powered applications**  
 
--  Let’s connect: **malipeddisekhar63@gmail.com**
+- 🧠 Strong in **problem solving, data structures & algorithms (DSA), and logical thinking**  
+
+- 🛠️ Hands-on experience with **REST APIs, JWT authentication, and backend architecture**  
+
+- 🎯 Goal: To become a **skilled software engineer focused on scalable systems and clean architecture**  
+
+- 📫 Reach me at **malipeddisekhar63@gmail.com**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=20&center=true&vCenter=true&width=500&lines=Click+Below+to+Connect+With+Me" />
@@ -37,6 +43,11 @@
 
 <a href="https://www.geeksforgeeks.org/profile/malipeddieak8?tab=activity" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+</a>&nbsp;&nbsp;
+
+<a href="https://malipeddisekhar.me" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </p>
