@@ -12,44 +12,34 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malipeddisekhar&label=Profile%20views&color=0e75b6&style=flat" alt="malipeddisekhar" /> </p>
 
-- 🌱 I’m currently learning **full stack web development using java/sql/AI tools*
+-  Focused on **Java Full Stack Development, AI Tools, and Real-World Applications**  
 
-- 💬 Ask me about **web development/coding questions**
+-  Enthusiastic about **Problem Solving, Data Structures, and Smart System Design**  
 
-- 📫 How to reach me **malipeddisekhar63@gmail.com**
+-  Let’s connect: **malipeddisekhar63@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=20&center=true&vCenter=true&width=500&lines=Click+Below+to+Connect+With+Me" />
+</p>
+<p align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/malipeddi-sekhar-08650630b/" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
-        <br/>LinkedIn
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.codechef.com/users/sekhar063" target="blank">
-        <img src="https://cdn.simpleicons.org/codechef" height="40" width="40" />
-        <br/>CodeChef
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://leetcode.com/u/MALIPEDD_SEKHAR/" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" />
-        <br/>LeetCode
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.geeksforgeeks.org/profile/malipeddieak8?tab=activity" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="40" width="40" />
-        <br/>GeeksForGeeks
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://www.linkedin.com/in/malipeddi-sekhar-08650630b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;&nbsp;
 
-<br/>
+<a href="https://www.codechef.com/users/sekhar063" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/MALIPEDD_SEKHAR/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://www.geeksforgeeks.org/profile/malipeddieak8?tab=activity" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 
