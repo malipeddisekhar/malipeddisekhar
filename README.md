@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm MALIPEDDI SEKHAR (Innovation-Driven Engineer)</h1>
 <h3 align="center" style="color:red;">
-  I passionate about <p align="center">
+  I am passionate about: <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&size=26&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+SQL+%7C+AI%2FML;Building+Smart+Web+Applications" />
   </p>
 </h3>
